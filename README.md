@@ -12,5 +12,5 @@
 
 📫 You can reach me at: arifzulfugarov2023@gmail.com
 
-🔗 LinkedIn
+🔗 LinkedIn: www.linkedin.com/in/arif-zulfugarov-640148264
 
