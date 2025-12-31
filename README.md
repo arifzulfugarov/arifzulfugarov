@@ -1,4 +1,4 @@
-Hey there! <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/00be1b19-a926-4449-9e0f-04e51d8f369f" />
+Hey there! https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFsZnN4dmwyNWoxM3ZndGEyZXdzc3NhbzJqZzJwOG51aDAyOW8wYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif
 
 I’m Arif, a Software Engineer based in Budapest.
 
