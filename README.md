@@ -1,4 +1,4 @@
-Hey there! https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFsZnN4dmwyNWoxM3ZndGEyZXdzc3NhbzJqZzJwOG51aDAyOW8wYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif
+Hey there! 
 
 I’m Arif, a Software Engineer based in Budapest.
 
