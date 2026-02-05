@@ -6,7 +6,7 @@ I design and build backend systems, cloud-native applications, and full-stack pr
 
 If an idea or problem comes up, chances are I’ll try to break it down and build a working solution.
 
-My main tech stack includes Java, Python, Go, and C++, with experience using Spring Boot, Flask, Django, .NET, and React. I regularly work with Docker, Kubernetes, Helm, and CI/CD pipelines.
+My main tech stack includes Java, Python, Go, and C, with experience using Spring Boot, Flask, Django, .NET, and React. I regularly work with Docker, Kubernetes, Helm, and CI/CD pipelines.
 
 I’m currently working as a Software Engineering Intern at Ericsson, contributing to a Kubernetes-based orchestration platform and gaining hands-on experience with cloud-native systems and DevOps practices.
 
